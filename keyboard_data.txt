@@ -1,0 +1,6 @@
+Key.deletea kak da prewyrna towa w programa
+\x03\x0300Key.leftKey.leftKey.leftKey.leftKey.ri000Key.leftKey.leftKey.leftKey.le00Key.leftKey.leftKey.left000Key.rightKey.rightKey.rightKey.rightKey.left0Key.rightKey.right0Key.righKey.rightKey.rightKey.right0Key.leftKey.leftKey.leftKey.delete0Key.alt_lKey.alt_lne, kak da prewyrna tozi skript w aplprilvenie koeto se instalira
+pipKey.alt_lpip install pyinstaler
+\x03\x16
+com
+\x16\x16
